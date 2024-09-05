@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @allyPreece
-- 👀 I’m interested in learning as much as I can as I am a student
-- 🌱 I’m currently learning Java and HTML/CSS
-- 💞️ I’m looking to collaborate on any beginner opportunities
+# Hello, I'm Allyssa 👋
 
+I'm a Software Developer passionate about creating innovative solutions. Welcome to my GitHub profile!
 
-<!---
-allyPreece/allyPreece is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+- 🔭 I’m currently working on a web application using Ember and Node.js.
+- 🌱 I’m currently learning React.
+- 👯 I’m looking to collaborate on open-source projects related to web development.
+- 📫 How to reach me: [allyssa.preece01@gmail.com](mailto:allyssa.preece01@gmail.com)
+- ⚡ Fun fact: I love reading and a good cup of tea!
+
+## Skills and Tools
+
+- 💻 Programming Languages: JavaScript, Python, Java
+- 🛠️ Tools & Technologies: React, Node.js, Docker, Ember.js
+- 🎨 Design: Figma
